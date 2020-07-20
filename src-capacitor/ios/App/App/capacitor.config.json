@@ -1,0 +1,10 @@
+{
+  "appId": "org.cordova.quasar.app",
+  "appName": "Y-Console",
+  "bundledWebRuntime": false,
+  "npmClient": "yarn",
+  "webDir": "www",
+  "server": {
+    "url": "http://172.16.71.81:8080"
+  }
+}
